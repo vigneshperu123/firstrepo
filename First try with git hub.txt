@@ -5,7 +5,7 @@ Considering this as code
 Making some changes
 Adding example line to understand feature branch
 test
-Added the code as user2 for forking
+Added the code as user2 for forking - Line number 8 bug is addressed
 Adding code here as 2nd user to understand merge conflict - different account fork user
 
 
