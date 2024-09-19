@@ -6,3 +6,4 @@ Making some changes
 Adding example line to understand feature branch
 test
 Added the code as user2 for forking
+Adding this code to understand merge conflict concept - same user's feature branch
